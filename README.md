@@ -5,8 +5,9 @@ The values of Correlation Coefficient lies in -1 to +1
 
 -1 -->indicates Negative Correlation
 
-+1 -->Indicates Positive COrrelation
++1 -->Indicates Positive Correlation
 
 0 -->inidicates No relationship between variables
 
-In this R-code,used both Linear Regression and Multi Linear Regression Algorithm to train and Test The data.Before Training the Data,we just cleaned the Data by Removing all the outlier data and replacing them with NA's
+In this R-code,used both Linear Regression and Multi Linear Regression Algorithm to train and Test The data.Before Training the Data,we just cleaned the Data by Removing all the outlier data and replacing them with NA's.
+
